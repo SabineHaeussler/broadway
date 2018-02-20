@@ -20,13 +20,13 @@ color: white;
  h2 {
  font-size: 32px;
  font-weight: bold;
- color: dimgray;
+ color: black;
   }
 
   h3 {
   font-size: 23px;
   font-weight: bold;
-  color: dimgray;
+  color: black;
    }
 
   h4 {
@@ -38,7 +38,7 @@ color: white;
 
 p {
   font-size: 14px;
-  color: dimgray;
+  color: black;
    }
 
 .nav {
